@@ -1,8 +1,8 @@
-version: 0.2
+dversion: 0.2
 
 env:
   variables:
-    ECR_REGISTRY: 380278406175.dkr.ecr.us-east-1.amazonaws.com
+    ECR_REGISTRY: 922120356654.dkr.ecr.us-east-1.amazonaws.com
     ECR_REPO: bia
 
 phases:
